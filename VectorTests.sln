@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VectorTests", "VectorTests\VectorTests.csproj", "{1ECA811B-2D7B-4A68-AC13-B11546911C4C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VectorBase", "VectorBase\VectorBase.csproj", "{C238193E-AF76-4ECB-B8A7-8EE8DB0F289D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F6656216-9C05-45C0-88ED-87E770DE3141}"
+	ProjectSection(SolutionItems) = preProject
+		settings.runsettings = settings.runsettings
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1ECA811B-2D7B-4A68-AC13-B11546911C4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ECA811B-2D7B-4A68-AC13-B11546911C4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ECA811B-2D7B-4A68-AC13-B11546911C4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ECA811B-2D7B-4A68-AC13-B11546911C4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C238193E-AF76-4ECB-B8A7-8EE8DB0F289D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C238193E-AF76-4ECB-B8A7-8EE8DB0F289D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C238193E-AF76-4ECB-B8A7-8EE8DB0F289D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C238193E-AF76-4ECB-B8A7-8EE8DB0F289D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B332B000-B7DA-45F7-AAFE-BED88A0B3959}
+	EndGlobalSection
+EndGlobal
